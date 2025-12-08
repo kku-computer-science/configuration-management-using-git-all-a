@@ -1,3 +1,6 @@
+# Author: Worachat Paranya (ID: 663380399-6)
+# Description: Quick Sort Algorithm Implementation
+
 import time
 import random
 from typing import List, Union
