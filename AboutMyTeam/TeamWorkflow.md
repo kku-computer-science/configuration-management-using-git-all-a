@@ -12,4 +12,4 @@
    - Member 2 (Krit) เขียนโค้ดใน `Project/bubble_sort.py`
    - Member 3 (Kantavich) เขียนโค้ดใน `Project/main.py`
 4. **Merge & Push:** เมื่อเขียนและทดสอบเสร็จ ให้ Merge Branch ของตัวเองเข้ากับ Main (`git merge ...`) แล้ว Push ขึ้น GitHub
-5. **Final Check:** ทุกคนช่วยกันตรวจสอบความถูกต้องบน GitHub และแก้ไข Conflict (ถ้ามี) ร่วมกัน
+5. **Final Check:** ทุกคนช่วยกันตรวจสอบความถูกต้องบน GitHub และแก้ไข Conflict ร่วมกัน
