@@ -1,8 +1,8 @@
 # Team Workflow
 
 ## Team Members (สมาชิกและหน้าที่)
-- **Member 1 (Worachat):** สร้าง Repo และโฟลเดอร์โครงสร้าง, เขียนและทดสอบ Quick Sort
-- **Member 2 (Krit):** เขียนและทดสอบ Bubble Sort
+- **Member 1 (Worachat):** สร้าง Repo และโฟลเดอร์โครงสร้าง, เขียนและทดสอบ algorithm Quick Sort
+- **Member 2 (Krit):** เขียนและทดสอบ algorithm Bubble Sort
 - **Member 3 (Kantavich):** เขียน Main Program เพื่อรวบรวมฟังก์ชันและทำการทดสอบ Algorithm ทั้งสอง
 
 ## Workflow Process (ขั้นตอนการทำงาน)
