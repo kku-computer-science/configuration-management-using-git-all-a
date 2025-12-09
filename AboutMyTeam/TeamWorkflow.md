@@ -6,7 +6,7 @@
 - **Member 3 (Kantavich):** เขียน Main Program เพื่อรวบรวมฟังก์ชันและทำการทดสอบ Algorithm ทั้งสอง
 
 ## Workflow Process (ขั้นตอนการทำงาน)
-1. **Initial Setup:** Member 1 (Worachat) สร้าง brach ของตัวเอง สร้างโฟลเดอร์และไฟล์ที่จำเป็นเช่น AboutMyTeam, Project และ TeamWorkflow.md พร้อมส่งโค้ด Quick Sort ขึ้น Main Branch เรียบร้อยแล้ว
+1. **Initial Setup:** Member 1 (Worachat) สร้าง brach ของตัวเอง สร้างโฟลเดอร์ และ ไฟล์ที่จำเป็นเช่น AboutMyTeam, Project และ TeamWorkflow.md พร้อมส่งโค้ด Quick Sort ขึ้น Main Branch เรียบร้อยแล้ว
 2. **Pull & Branch:** สมาชิกคนอื่นๆ ต้องทำการ `git pull origin main` เพื่อดึงงานล่าสุดก่อน แล้วสร้าง Branch ส่วนตัว (`git checkout -b ชื่อ_รหัส`)
 3. **Implementation:**
    - Member 2 (Krit) เขียนแนะนำตัวเองใน `AboutMyTeam/Krit_374-2.md` และเขียนโค้ดใน `Project/bubble_sort.py`
