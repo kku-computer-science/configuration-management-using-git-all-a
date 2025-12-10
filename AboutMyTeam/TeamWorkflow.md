@@ -16,7 +16,7 @@
 
    - Member 2 (Krit) เขียนแนะนำตัวเองใน `AboutMyTeam/Krit_374-2.md` และเขียนโค้ด algorithm ใน `Project/bubble_sort.py`
 
-   - Member 3 (Kantavich) เขียนแนะนำตัวเองใน `AboutMyTeam/Kantawit_586-7.md` และโค้ดใน `Project/main.py`
+   - Member 3 (Kantavich) เขียนแนะนำตัวเองใน `AboutMyTeam/Kantavich_586-7.md` และโค้ดใน `Project/main.py`
 
 4. **Merge & Push:** เมื่อเขียนและทดสอบเสร็จ ให้ Merge Branch ของตัวเองเข้ากับ Main (`git merge ...`) แล้ว Push ขึ้น GitHub
 5. **Final Check:** ทุกคนช่วยกันตรวจสอบความถูกต้องบน GitHub และแก้ไข Conflict ร่วมกัน
